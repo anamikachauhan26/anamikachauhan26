@@ -53,10 +53,8 @@ Currently, I’m focused on strengthening my skills in **backend and full-stack 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anamikachauhan26&show_icons=true&theme=darcula)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anamikachauhan26&layout=compact&theme=darcula)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=anamikachauhan26&theme=darcula)
 
 ---
